@@ -1,4 +1,15 @@
 # Polygon Consumer Contract for LensAPI Oracle
+
+
+### Submission details:
+Contract ID on Polygon of Consumer Contract: 0x41748dE152fa6F3B169f1B0E51026537A875F384
+
+LensAPI Oracle Endpoint Address: 0xf6307c31752a2fd7a198b3a954808f517c7e25b1
+
+![image](https://github.com/carmen41511/phala-network-main/assets/53323902/cc3e84e5-179c-44e7-8ea2-a82059f98b25)
+
+
+
 ![](./assets/Phat-Contract-Logo.png)
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
